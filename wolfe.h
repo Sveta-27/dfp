@@ -1,6 +1,4 @@
-//
-// Created by konstantin on 25.10.17.
-//
+
 
 #ifndef DFP_WOLFE_H
 #define DFP_WOLFE_H
